@@ -1,0 +1,11 @@
+body {
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fes%2Fsearch%3Fk%3DFondo%2Bde%2Bpantalla%2B4K&psig=AOvVaw3YQetqPji8DGqTcnhh61R_&ust=1722996067327000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLj73OGi34cDFQAAAAAdAAAAABAJ);
+    background-repeat: no-repeat;
+    background-color: black;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    color: rgb(255, 255, 255);
+    font-family:'Courier New', Courier, monospace;
+  }
+
